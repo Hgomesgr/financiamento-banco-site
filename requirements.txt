@@ -1,3 +1,3 @@
-streamlit==1.38.0
-tensorflow-cpu==2.17.0
-numpy==1.26.4
+streamlit
+tensorflow-cpu
+numpy
